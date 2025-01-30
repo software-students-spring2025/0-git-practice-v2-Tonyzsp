@@ -14,3 +14,7 @@ Unlike traditional **Waterfall** methods, where development follows a strict fix
 - Helps teams **identify and fix issues early**, preventing costly mistakes.
 
 ### **Tonyzsp**
+
+
+## Contributor: Leo Wu
+This article is very insightful for understanding software engineering principles.
