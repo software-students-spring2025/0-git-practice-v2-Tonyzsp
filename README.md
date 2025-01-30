@@ -16,6 +16,6 @@ Unlike traditional **Waterfall** methods, where development follows a strict fix
 ### **Tonyzsp**
 
 
-#Comment from Samir2324
+# Comment from Samir2324
 
 Hi Tony, I found this article interesting as well. I am not experienced in software development and had no idea what Agile was. This article was helpful for me to gain a basic understanding of Agile and how it can be helpful for software developers at all levels
